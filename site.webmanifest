@@ -1,0 +1,9 @@
+{
+  "name": "RIRA CAR — Location de voitures Casablanca",
+  "short_name": "RIRA CAR",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f0e8",
+  "theme_color": "#121212",
+  "icons": [{ "src": "assets/img/logo.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
